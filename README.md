@@ -1,5 +1,7 @@
 ## One Image .. one thousand words.
+
 [L-Systems](https://en.wikipedia.org/wiki/L-system) are being used to generate the trees. 
+It is fascinating to me that by just following a couple of very simple rules, something extremly complex can emerge. 
 
 ## Inspiration
 
