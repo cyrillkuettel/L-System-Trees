@@ -1,4 +1,9 @@
-## One Image - a thousand words.
-[L-Systems](https://en.wikipedia.org/wiki/L-system) are being used to generate the trees. Everything you see here is rooted in formal grammar. 
+## One Image .. one thousand words.
+[L-Systems](https://en.wikipedia.org/wiki/L-system) are being used to generate the trees. 
 
-![yes](https://github.com/TheFruitDude/fractal_trees/blob/master/tree.png?raw=true)
+## Inspiration
+
+![tree](https://github.com/cyrillkuettel/fractal_trees/blob/master/tree.gif?raw=true)
+
+## Result
+![yes](https://github.com/cyrillkuettel/fractal_trees/blob/master/tree.png?raw=true)
